@@ -12,7 +12,7 @@ estiver acima de uma determinada quantidade, ira acender o led.
 5 - 2 Resistor de 1 KOhms
 
 ## Montagem do Circuito
-![Imagem do Circuito](sensor de luz (1).png)
+![Imagem do Circuito](sensor_de_luz.png.png)
 
 ## Explicação do código
 
