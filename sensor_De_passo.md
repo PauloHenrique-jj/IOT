@@ -10,7 +10,7 @@ este projeto foi desenvolvido dentro do trinkercard, na disciplina de internet d
 4 - 1 Motor de movimento
 
 ## Montagem do Circuito
-![Imagem do Circuito](sensor_de_movimento.png)
+![Imagem do Circuito](motor-de-passo-arduino-img4.png)
 
 ## Explicação do código
 
